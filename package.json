@@ -1,0 +1,38 @@
+{
+  "name": "radical-input",
+  "version": "0.1.0",
+  "description": "Radical input Written in Electron. 中文部首输入法。字典源自 www.chinese-tools.com/tools/sinograms.html?r=",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitrum/radical-input.git"
+  },
+  "keywords": [
+    "redical",
+    "input",
+    "demo"
+  ],
+  "author": "vitrum.zhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitrum/radical-input/issues"
+  },
+  "homepage": "https://github.com/vitrum/radical-input#readme",
+  "dependencies": {
+    "electron": "^7.1.2"
+  },
+  "devDependencies": {
+    "core-js": "^3.4.2",
+    "cross-env": "6.0.3",
+    "css-loader": "3.2.0",
+    "electron-builder": "22.1.0",
+    "electron-installer-snap": "^4.1.0",
+    "electron-notarize": "^0.1.1",
+    "electron-rebuild": "^1.8.5",
+    "eslint": "^6.7.1"
+  }
+}
