@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/vitrum/radical-input#readme",
   "dependencies": {
-    "electron": "^7.1.2"
+    "electron": "^13.6.6"
   },
   "devDependencies": {
     "core-js": "^3.4.2",
